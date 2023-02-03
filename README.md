@@ -60,7 +60,7 @@ If it's greater than or equal to 70, then the program will execute the
 content of the `if` block. If the grade is less than 70, then the program will
 not execute the content of the `if` block.
 
-Let's take a look at this flow of control by running this program in the
+Let's take a look at this control flow by running this program in the
 debugger. We'll put a breakpoint at the `if` statement and enter in the grade
 `90`:
 
