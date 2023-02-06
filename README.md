@@ -288,8 +288,9 @@ to see the flow of how this program is executed.
 ## Nested Conditionals
 
 Since `if` statements can contain multiple statements inside their `if` block,
-they can also contain other `if` statements. Consider the following changes to
-the program we have been working with:
+they can also contain other `if` statements. This is called
+**nested conditionals**. Consider the following changes to the program we have
+been working with:
 
 ```java
 import java.util.InputMismatchException;
